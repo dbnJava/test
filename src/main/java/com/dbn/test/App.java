@@ -12,5 +12,6 @@ public class App
         System.out.println("this is a test");
         System.out.println("this is bobo");
         System.out.println("this is boybo!");
+        System.out.println("this is wangxb110");
     }
 }
