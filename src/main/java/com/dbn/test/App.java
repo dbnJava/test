@@ -13,5 +13,6 @@ public class App
         System.out.println("this is bobo");
         System.out.println("this is boybo!");
         System.out.println("this is wangxb110");
+        System.out.println("this is boybo2");
     }
 }
